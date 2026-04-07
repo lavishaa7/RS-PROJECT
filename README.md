@@ -1,4 +1,4 @@
-# Replication Study: "Our Model Achieves Excellent Performance on MovieLens: What Does It Mean?"
+#  "Our Model Achieves Excellent Performance on MovieLens: What Does It Mean?"
 
 ##  Paper
 **Title:** Our Model Achieves Excellent Performance on MovieLens: What Does It Mean?  
